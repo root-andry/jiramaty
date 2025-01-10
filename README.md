@@ -22,7 +22,7 @@ JIRAMATY is a Flutter-based mobile application that helps users calculate their 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/jiramaty.git
+git clone https://github.com/root-andry/jiramaty.git
 ```
 
 2. Navigate to project directory:
